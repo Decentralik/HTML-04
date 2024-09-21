@@ -1,1 +1,1 @@
-# HTML-04
+# HTML 04: Strong, Mark and del tags.
